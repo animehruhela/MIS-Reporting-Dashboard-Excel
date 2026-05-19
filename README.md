@@ -61,6 +61,22 @@ An end-to-end **MIS Reporting Dashboard** built in Microsoft Excel analyzing **3
 - 🎯 Compared **Sales vs Target** for each product category
 - 📆 Generated **Weekly MIS** for Q1 2024 management reporting
 - 📉 Detected **below target** months for corrective action
+- ## 📸 Dashboard Screenshots
+
+### 📊 KPI Dashboard
+![KPI Dashboard](screenshots/01_KPI_Dashboard.png)
+
+### 📅 Monthly MIS Report
+![Monthly MIS](screenshots/02_Monthly_MIS_Report.png)
+
+### 🗺️ Regional Analysis
+![Regional Analysis](screenshots/03_Regional_Analysis.png)
+
+### 📆 Weekly MIS
+![Weekly MIS](screenshots/04_Weekly_MIS.png)
+
+### 🛒 Product Analysis
+![Product Analysis](screenshots/05_Product_Analysis.png)
 
 ---
  # 📂 Project Structure
