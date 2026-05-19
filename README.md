@@ -66,20 +66,21 @@ An end-to-end **MIS Reporting Dashboard** built in Microsoft Excel analyzing **3
 ## 📸 Dashboard Screenshots
 
 ### 📊 KPI Dashboard
-![KPI Dashboard](screenshots/_KPI_Dashboard.png)
+![KPI Dashboard](screenshots/KPI_Dashboard.png)
 
 ### 📅 Monthly MIS Report
-![Monthly MIS](screenshots/_Monthly_MIS_Report.png)
+![Monthly MIS](screenshots/Monthly_MIS_Report.png)
 
 ### 🛒 Product Analysis
-![Product Analysis](screenshots/_Product_Analysis.png)
+![Product Analysis](screenshots/Product_Analysis.png)
 
 ### 🗺️ Regional Analysis
-![Regional Analysis](screenshots/_Regional_Analysis.png)
+![Regional Analysis](screenshots/Regional_Analysis.png)
 
 ### 📆 Weekly MIS
-![Weekly MIS](screenshots/_Weekly_MIS.png)
----
+![Weekly MIS](screenshots/Weekly_MIS.png)
+
+
  # 📂 Project Structure
 ---
 
